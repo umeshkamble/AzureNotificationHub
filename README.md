@@ -1,5 +1,6 @@
 # AzureNotificationHub MAUI .Net (Android)
-Send Firebase (FCM V1) push notification to physical device using Azure Notification Hub
+Send Firebase (FCM V1) push notification to physical device using Azure Notification Hub.
+https://learn.microsoft.com/en-us/dotnet/maui/data-cloud/push-notifications?view=net-maui-8.0
 
 # Backend deployment 
 I have used dev tunnel url to access backend services. 
