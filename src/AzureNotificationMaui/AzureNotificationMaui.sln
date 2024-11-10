@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureNotificationMaui", "AzureNotificationMaui.csproj", "{DFA2A2C2-56E0-42E9-9D77-858CD985C9C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZNotificationHub", "..\AZNotificationHub\AZNotificationHub.csproj", "{601B482B-7D29-4953-8E66-8A0E6DF54F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA2A2C2-56E0-42E9-9D77-858CD985C9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA2A2C2-56E0-42E9-9D77-858CD985C9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA2A2C2-56E0-42E9-9D77-858CD985C9C7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DFA2A2C2-56E0-42E9-9D77-858CD985C9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA2A2C2-56E0-42E9-9D77-858CD985C9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA2A2C2-56E0-42E9-9D77-858CD985C9C7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{601B482B-7D29-4953-8E66-8A0E6DF54F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601B482B-7D29-4953-8E66-8A0E6DF54F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601B482B-7D29-4953-8E66-8A0E6DF54F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601B482B-7D29-4953-8E66-8A0E6DF54F26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAC9EC81-D1C2-4402-922E-71DEF275D384}
+	EndGlobalSection
+EndGlobal
