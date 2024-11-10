@@ -1,10 +1,12 @@
-# AzureNotificationHub
+# AzureNotificationHub (Android)
 Send Firebase (FCM V1) push notification to physical device using Azure Notification Hub
 
 # Backend deployment 
 I have used dev tunnel url to access backend services. 
-For infomation about dev tunnel please visit below url
+For more infomation about **dev tunnel** please visit below url
+
 Vedio (https://www.youtube.com/watch?v=72hs_IlE-GY)
+
 information: https://learn.microsoft.com/en-us/aspnet/core/test/dev-tunnels?view=aspnetcore-8.0
 
 # Please Follow below steps to configure Firebase FCM v1 into Azure notification hub
@@ -34,6 +36,8 @@ information: https://learn.microsoft.com/en-us/aspnet/core/test/dev-tunnels?view
 ![Send Test notification](https://github.com/user-attachments/assets/2b9f6c38-48df-43ef-8b22-8368ee1842cd)
 
 9) Notificaiton Output
-    ![Received Notification](https://github.com/user-attachments/assets/2958fa22-0d42-4ebf-a12b-de790469ba26)
+
+![Received Notification](https://github.com/user-attachments/assets/2958fa22-0d42-4ebf-a12b-de790469ba26)
 
    
+# Note:Please download and configure google-services.json file into the Android platform.
